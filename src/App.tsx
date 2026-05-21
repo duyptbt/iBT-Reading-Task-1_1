@@ -442,11 +442,8 @@ export default function App() {
             <span className="text-white font-bold text-xl font-mono">T</span>
           </div>
           <div>
-            <h1 className="text-lg font-bold text-slate-800 leading-tight flex items-center gap-2">
-              TOEFL iBT® Task 1 Prep
-              <span className="text-[10px] bg-indigo-50 border border-indigo-100 font-mono text-indigo-700 px-1.5 py-0.5 rounded font-extrabold uppercase">
-                Word Completer
-              </span>
+            <h1 className="text-lg font-black text-slate-800 leading-tight flex items-center gap-1.5">
+              TOEFL Reading: <span className="text-blue-800">Complete the Words</span>
             </h1>
             <p className="text-xs text-slate-500 uppercase tracking-widest font-sans font-bold">
               Reading Section • Micro-Literacy

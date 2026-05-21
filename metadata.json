@@ -1,5 +1,5 @@
 {
-  "name": "TOEFL Reading Word Completer",
+  "name": "TOEFL Reading: Complete the Words",
   "description": "An interactive iBT TOEFL Reading prep app for Task 1 (Complete the Words), featuring interactive letter completion, performance analytics, curated academic passages, and custom practice generators powered by Gemini.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
