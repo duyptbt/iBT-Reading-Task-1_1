@@ -84,77 +84,77 @@ export const curatedPassages: Passage[] = [
     id: "photosynthesis",
     title: "The Energetics of Photosynthesis",
     category: "Life Sciences",
-    rawTextWithPlaceholders: `Photosynthesis is the {0} by which green {1} and some other organisms {2} sunlight to synthesize nutrients from carbon dioxide and water. In these plants, photosynthesis generally involves the {3} pigment chlorophyll and generates oxygen as a byproduct. Chlorophyll absorbs {4} in the blue and red regions of the electromagnetic spectrum. The {5} absorbed from light is transferred to water molecules, causing them to {6} into oxygen and hydrogen atoms. This biochemical {7} is fundamental for maintaining {8} levels on Earth. Almost all {9} creatures depend in some way on this energy flow for survival.`,
+    rawTextWithPlaceholders: `Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. In {0} plants, {1} generally {2} the {3} pigment {4} and {5} oxygen {6} a {7}. Chlorophyll {8} light {9} the blue and red regions of the electromagnetic spectrum. The energy absorbed from light is transferred to water molecules, causing them to split into oxygen and hydrogen atoms. This biochemical reaction is fundamental for maintaining oxygen levels on Earth. Almost all living creatures depend in some way on this energy flow for survival.`,
     wordTasks: [
       {
         id: 0,
-        fullWord: "process",
-        prefix: "pro",
-        missing: "cess",
-        hint: "A series of actions or steps taken in order to achieve a particular end (noun)"
+        fullWord: "these",
+        prefix: "th",
+        missing: "ese",
+        hint: "Pronoun referring to the green plants and organisms mentioned"
       },
       {
         id: 1,
-        fullWord: "plants",
-        prefix: "pla",
-        missing: "nts",
-        hint: "Living organisms of the vegetable kingdom (plural noun)"
+        fullWord: "photosynthesis",
+        prefix: "photosy",
+        missing: "nthesis",
+        hint: "The name of the chemical process being described (noun)"
       },
       {
         id: 2,
-        fullWord: "use",
-        prefix: "u",
-        missing: "se",
-        hint: "Verb meaning to utilize or employ for a purpose"
+        fullWord: "involves",
+        prefix: "invo",
+        missing: "lves",
+        hint: "Verb meaning to include or have as a necessary part"
       },
       {
         id: 3,
         fullWord: "green",
-        prefix: "gre",
-        missing: "en",
-        hint: "Adjective describing the color of chlorophyll-rich pigments"
+        prefix: "gr",
+        missing: "een",
+        hint: "Adjective describing the color of the chlorophyll pigment"
       },
       {
         id: 4,
-        fullWord: "light",
-        prefix: "lig",
-        missing: "ht",
-        hint: "Electromagnetic radiation that can be detected by the human eye (noun)"
+        fullWord: "chlorophyll",
+        prefix: "chlor",
+        missing: "phyll",
+        hint: "The green pigment responsible for absorbing light (noun)"
       },
       {
         id: 5,
-        fullWord: "energy",
-        prefix: "ene",
-        missing: "rgy",
-        hint: "The capacity for doing work, such as cellular metabolism (noun)"
+        fullWord: "generates",
+        prefix: "gene",
+        missing: "rates",
+        hint: "Verb meaning to produce or create (e.g. oxygen)"
       },
       {
         id: 6,
-        fullWord: "split",
-        prefix: "spl",
-        missing: "it",
-        hint: "Verb meaning to break or divide into two or more parts"
+        fullWord: "as",
+        prefix: "a",
+        missing: "s",
+        hint: "Preposition used to refer to the role or function of something ('... as a byproduct')"
       },
       {
         id: 7,
-        fullWord: "reaction",
-        prefix: "rea",
-        missing: "ction",
-        hint: "A chemical process in which substances convert to new substances"
+        fullWord: "byproduct",
+        prefix: "bypr",
+        missing: "oduct",
+        hint: "An incidental or secondary product made in the manufacture or synthesis of something (noun)"
       },
       {
         id: 8,
-        fullWord: "oxygen",
-        prefix: "oxy",
-        missing: "gen",
-        hint: "A colorless, odorless reactive gas, vital to aerobic life (noun)"
+        fullWord: "absorbs",
+        prefix: "abs",
+        missing: "orbs",
+        hint: "Verb meaning to take in or soak up energy or liquid"
       },
       {
         id: 9,
-        fullWord: "living",
-        prefix: "liv",
-        missing: "ing",
-        hint: "Being alive; having life (adjective)"
+        fullWord: "in",
+        prefix: "i",
+        missing: "n",
+        hint: "Preposition indicating a specific location or range within the light spectrum ('... in the blue and red regions')"
       }
     ],
     explanation: "Bài đọc về Khoa học Sự sống này đề cập đến chu trình trao đổi chất thiết yếu ở thực vật. Các từ đã hoàn thành bao gồm các thuật ngữ học thuật cơ bản ('process', 'reaction', 'energy') cùng với các từ vựng cốt lõi về hóa sinh ('oxygen', 'light', 'plants') giúp cấu thành cấu trúc văn xuôi TOEFL tiêu chuẩn."
@@ -163,77 +163,77 @@ export const curatedPassages: Passage[] = [
     id: "industrial_rev",
     title: "Origins of the Industrial Revolution",
     category: "History & Social Studies",
-    rawTextWithPlaceholders: `The Industrial Revolution marked a major turning point in history; almost {0} aspect of daily life was influenced in some {1}. In particular, average income and population began to exhibit {2} unprecedented rate of solid {3}. In the two centuries following 1750, the world's average per capita income increased {4} than tenfold, while the population increased more than sixfold. This technological acceleration began in Great Britain {5} then spread across Western Europe and North America. The invention {6} the steam engine revolutionized both manufacture {7} transport, creating a highly interconnected {8} system that transformed rural agrarian societies {9} urban industrial powerhouses.`,
+    rawTextWithPlaceholders: `The Industrial Revolution marked a major turning point in history as agrarian societies transformed into industrial powerhouses. Prior {0} this {1}, most {2} was {3} in {4} using {5} tools {6} basic {7}. Industrialization {8} powered {9} and large-scale factories, which significantly increased production outputs. The invention of the steam engine revolutionized both manufacture and transport, creating a highly interconnected world system. Consequently, average income and population began to exhibit an unprecedented rate of solid growth, forever altering the social fabric.`,
     wordTasks: [
       {
         id: 0,
-        fullWord: "every",
-        prefix: "eve",
-        missing: "ry",
-        hint: "Determiner referring to all members of a group"
+        fullWord: "to",
+        prefix: "t",
+        missing: "o",
+        hint: "Preposition used to express direction, location, or relation ('Prior to...')"
       },
       {
         id: 1,
-        fullWord: "way",
-        prefix: "wa",
-        missing: "y",
-        hint: "Noun meaning a method, style, or manner of doing something"
+        fullWord: "transition",
+        prefix: "trans",
+        missing: "ition",
+        hint: "The process or a period of changing from one state or condition to another (noun)"
       },
       {
         id: 2,
-        fullWord: "an",
-        prefix: "a",
-        missing: "n",
-        hint: "Indefinite article used before vowel sounds"
+        fullWord: "manufacturing",
+        prefix: "manufa",
+        missing: "cturing",
+        hint: "The making of articles on a large scale using machinery (noun)"
       },
       {
         id: 3,
-        fullWord: "growth",
-        prefix: "gro",
-        missing: "wth",
-        hint: "The process of increasing in physical size or quantity (noun)"
+        fullWord: "done",
+        prefix: "do",
+        missing: "ne",
+        hint: "Past participle of 'do', meaning performed or completed"
       },
       {
         id: 4,
-        fullWord: "more",
-        prefix: "mo",
-        missing: "re",
-        hint: "Comparative adverb indicating a greater portion or quantity"
+        fullWord: "homes",
+        prefix: "ho",
+        missing: "mes",
+        hint: "The places where people live (plural noun)"
       },
       {
         id: 5,
-        fullWord: "and",
-        prefix: "a",
+        fullWord: "hand",
+        prefix: "ha",
         missing: "nd",
-        hint: "Conjunction coordinating sequential events or logical connections"
+        hint: "Noun/adj referring to manual operations or tools ('hand tools')"
       },
       {
         id: 6,
-        fullWord: "of",
+        fullWord: "or",
         prefix: "o",
-        missing: "f",
-        hint: "Preposition expressing connection/ownership (the invention of...)"
+        missing: "r",
+        hint: "Conjunction introducing an alternative"
       },
       {
         id: 7,
-        fullWord: "and",
-        prefix: "a",
-        missing: "nd",
-        hint: "Conjunction used pairings, e.g. 'both X and Y'"
+        fullWord: "machines",
+        prefix: "mach",
+        missing: "ines",
+        hint: "Apparatuses using mechanical power having several parts (plural noun)"
       },
       {
         id: 8,
-        fullWord: "world",
-        prefix: "wor",
-        missing: "ld",
-        hint: "Noun indicating the earth, together with all of its countries and peoples"
+        fullWord: "introduced",
+        prefix: "intro",
+        missing: "duced",
+        hint: "Verb (past tense) meaning brought into use or operation for the first time"
       },
       {
         id: 9,
-        fullWord: "into",
-        prefix: "int",
-        missing: "o",
-        hint: "Preposition expressing movement or transformation to a destination/state ('transformed into...')"
+        fullWord: "machinery",
+        prefix: "mach",
+        missing: "inery",
+        hint: "Machines collectively or the components of a machine (noun)"
       }
     ],
     explanation: "Bài đọc về Lịch sử & Khảo cứu Xã hội này phác họa bước chuyển mình công nghiệp của nước Anh thế kỷ 18. Bài luyện tập tập trung vào các manh mối diễn ngôn bổ trợ cấu trúc ('and', 'into', 'every', 'an'), những yếu tố cực kỳ quan trọng để phân tích các lập luận trình tự thời gian trong bài thi TOEFL."
